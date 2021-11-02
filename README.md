@@ -5,6 +5,6 @@
 - It makes use of OpenWeatherMap API to fetch the current weather of the specified location.\
 \
 \
-URL to get the Api Keys : https://openweathermap.org/
-Base URL for the API :  "https://api.openweathermap.org/data/2.5/"
+URL to get the Api Keys : https://openweathermap.org/  \
+Base URL for the API :  "https://api.openweathermap.org/data/2.5/" \
 Get backgrounds and Wallpaper from :  https://www.wallpaperflare.com/
